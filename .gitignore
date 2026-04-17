@@ -1,1 +1,25 @@
-venv/ 
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Налаштування IDE
+.idea/
+.vscode/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# Теки збірки та кеш
+bin/
+build/
+__pycache__/
+venv/
+.ipynb_checkpoints/
+
+# Файли з даними (великі або динамічні)
+*.txt
+*.csv
+*.json
+*.log
+*.database
+*.dbvenv/ 
