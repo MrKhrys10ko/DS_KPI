@@ -23,3 +23,5 @@ venv/
 *.log
 *.database
 *.dbvenv/ 
+
+household_power_consumption.txt
